@@ -1,7 +1,7 @@
 # Preface iOS App
 
 <p align="left">
-    <img src="https://github.com/scottyschwartzowen/Scottylicious/blob/main/Scottylicious/Assets.xcassets/Images/scottylicious.imageset/scottylicious.png" alt="Scottylicious App Image" width="75%" />
+    <img src="https://github.com/scottyschwartzowen/Preface/blob/main/Preface/Resources/Assets.xcassets/Images/Preface.imageset/preface.png" alt="Preface App Image" width="75%" />
 </p>
 
 - Created 100% in Swift / SwiftUI
