@@ -8,16 +8,24 @@
 
 - Social media app where users are recommended to others by mutual friends
 
-- Launch screen, sign-in authentication, posts feed, profile page
+- Launch screen, sign-in authentication, posts feed, profile page, comments
 
 ## App Features
 
+- Swift concurrency and multi-threading to manage state with MainActors
+
+- Codable & Coding Key structure for robust end-to-end JSON data conformance
+
+- Error handling with escaping closures and Swift Tasks
+
+- Loading and displaying Images with AsyncImage
+
+- Firebase BAAS with Firestore SDK database using Swift Package Manager
+
+- Firebase integrated authentication and authorization
+
 - Robust identifiable data model with MVVM architecture
 
-- Grid View of food categories to navigate between recipe Lists
+- Incorporated Swift's Type Aliases for Completion Handlers
 
-- Tabbar, Sheets, and Modal Views dynamically show images and text
-
-- Pickers in Forms to persist color scheme settings with AppStorage
-
-- Persisting recipes using FileManager with JSON codable conformance
+- Firebase Storage SDK to store images in the cloud
