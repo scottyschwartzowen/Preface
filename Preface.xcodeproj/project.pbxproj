@@ -63,7 +63,6 @@
 			isa = PBXGroup;
 			children = (
 				2DA80AA42CB607EE00A116B7 /* Preface */,
-				2DAA33012CB859A2004B7F72 /* Frameworks */,
 				2DA80AA32CB607EE00A116B7 /* Products */,
 				2D9F36002D513FD5008D33F7 /* README.md */,
 			);
@@ -75,13 +74,6 @@
 				2DA80AA22CB607EE00A116B7 /* Preface.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		2DAA33012CB859A2004B7F72 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
