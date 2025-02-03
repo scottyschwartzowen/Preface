@@ -6,9 +6,9 @@
 
 - Created 100% in Swift / SwiftUI
 
-- App where users can view, create, edit, favorite, and save recipes
+- Social media app where users are recommended to others by mutual friends
 
-- Launch screen and meal category selection grid
+- Launch screen, sign-in authentication, posts feed, profile page
 
 ## App Features
 
